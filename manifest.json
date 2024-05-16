@@ -1,6 +1,6 @@
 {
-    "name": "bootstrap_flutter",
-    "short_name": "bootstrap_flutter",
+    "name": "sample_web_app",
+    "short_name": "sample_web_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
